@@ -1,0 +1,81 @@
+<div class="show02" id="vsb_content">
+ <div id="rightcont">
+  <div class="v_news_content">
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    为了更好地满足我校科研人员对外文文献的需求，图书馆现面向全校师生开通试用“WorldLib人工智能在线咨询平台”。该平台运用最新网络技术整合多个搜索引擎，通过微信公众号端和网页端两种使用方式为读者提供外文文献获取。
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <strong>
+     平台支持关键词检索、题名检索（文献准确题名）、文献DOI号检索、文献PMID号检索、图片识别检索、作者检索。
+    </strong>
+    查询结果会在5秒内以网址链接方式返回，点击链接直接下载全文。24小时不间断服务。
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <strong>
+     一、微信公众号端使用方式
+    </strong>
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    1、打开微信，在公众号中搜索WorldLib关注或直接扫描下方二维码关注。
+</span></p>
+  <p style="text-align: center;"><img src="https://www.nefu.edu.cn/__local/3/A5/A1/F0B5D4074EDEFEA2E2786A9C923_EB1C5B9F_2CC7.png"  width="600" style="height:auto;"/></span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    2、允许获取地理位置信息（需提前在系统设置里打开微信定位功能，或关注成功后发送定位“位置”后即可）
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    3、使用说明请参考公众号下拉菜单“帮助文档”。
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    4、首次关注需在校内，关注后可连续在校外使用7天。再次在校内使用后，可再次顺延7天。寒暑假不限。
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <strong>
+     二、网页端使用方式
+    </strong>
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    1、访问网址：http://ai.worldlib.com.cn
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    2、切换利用四大搜索引擎（百度学术、谷歌学术、微软学术、PubMed），输入所要查询的关键词等信息，通过浏览返回的结果确定所需文献是否可以下载，有些文献可直接下载浏览；
+</span></p>
+  <p style="text-align: center;"><img src="https://www.nefu.edu.cn/__local/B/AD/BD/1C685A6158F6FEFC262B72D69CA_1FEF60E2_219E5.png"  width="600" style="height:auto;"/></span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    3、若各大搜索引擎返回的文献不提供下载，则可点击右侧二维码，将所需文献题名（或文献DOI号、文献PMID号等）直接复制到对话框，并点击发送，系统会在10秒左右返回可下载的链接地址；
+</span></p>
+  <p style="text-align: center;"><img src="https://www.nefu.edu.cn/__local/D/4A/B3/4E82F9A66B6E317F6441679013D_1D41409F_69EA0.png"  width="600" style="height:auto;"/></span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    4、点击对话框返回的链接地址，即可下载所需文献并进行保存处理。
+</span></p>
+  <p style="text-align: center;"><img src="https://www.nefu.edu.cn/__local/9/9D/4E/730CCFA210515F9E5A64831B32B_BEBA7BAC_385B3.jpg"  width="600" style="height:auto;"/></span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <strong>
+     如您有任何疑问需要帮助请联系技术支持，电话15714519586
+    </strong>
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br/>
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br/>
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br/>
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br/>
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br/>
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    图书馆
+</span></p>
+   <p style="text-align:justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    2019年9月12日
+</span></p>
+  </div>
+  <div id="div_vote_id">
+  </div>
+ </div>
+</div>
